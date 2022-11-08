@@ -1,8 +1,8 @@
 ﻿using Jumper.Game;
 
-namespace Seeker
+namespace Jumper
 {
-    private class Program
+    public class Program
     {
         private static void Main(string[] args)
         {
