@@ -1,0 +1,5 @@
+Class,Role,Functions,Variables
+Director,Run game loop,,
+Word,Generate and hold word,,
+TerminalService,"Get inputs, do outputs",,
+Player,keep track of guesses?,,
